@@ -14,7 +14,7 @@ Dati della protezione civile disponibili qui:
 * [Dati COVID-19 Italia](https://github.com/pcm-dpc/COVID-19)
 * [Covid World Data](https://github.com/open-covid-19/data)
 
-## Installazzione
+## Installazione
 
 *   Python setup
 
